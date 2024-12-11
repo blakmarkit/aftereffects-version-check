@@ -1,16 +1,26 @@
 [
+    {"hex": "006000010F8904", "version": "2025, v25.2.0 BETA (Mac Arm 64)"},
+    {"hex": "006000010F8886", "version": "2025, v25.1.0 (Mac Arm 64)"},
     {"hex": "006000010F8884", "version": "2025, v25.1.0 BETA (Mac Arm 64)"},
+    {"hex": "006000010F880E", "version": "2025, v25.0.1 (Mac Arm 64)"},
     {"hex": "006000010F8806", "version": "2025, v25.0.0 (Mac Arm 64)"},
     {"hex": "006000010F8804", "version": "2025, v25.0.0 BETA (Mac Arm 64)"},
 
+    {"hex": "006000010F4904", "version": "2025, v25.2.0 BETA (Mac)"},
+    {"hex": "006000010F4886", "version": "2025, v25.1.0 (Mac)"},
     {"hex": "006000010F4884", "version": "2025, v25.1.0 BETA (Mac)"},
+    {"hex": "006000010F480E", "version": "2025, v25.0.1 (Mac)"},
     {"hex": "006000010F4806", "version": "2025, v25.0.0 (Mac)"},
     {"hex": "006000010F4804", "version": "2025, v25.0.0 BETA (Mac)"},
 
+    {"hex": "006000010F0904", "version": "2025, v25.2.0 BETA (Win)"},
+    {"hex": "006000010F0886", "version": "2025, v25.1.0 (Win)"},
     {"hex": "006000010F0884", "version": "2025, v25.1.0 BETA (Win)"},
+    {"hex": "006000010F080E", "version": "2025, v25.0.1 (Win)"},
     {"hex": "006000010F0806", "version": "2025, v25.0.0 (Win)"},
     {"hex": "006000010F0804", "version": "2025, v25.0.0 BETA (Win)"},
 
+    {"hex": "005F00060F8326", "version": "2024, v24.6.4 (Mac Arm 64)"},
     {"hex": "005F00060F831E", "version": "2024, v24.6.3 (Mac Arm 64)"},
     {"hex": "005F00060F8316", "version": "2024, v24.6.2 (Mac Arm 64)"},
     {"hex": "005F00060F830E", "version": "2024, v24.6.1 (Mac Arm 64)"},
@@ -21,6 +31,7 @@
     {"hex": "005F00040F810E", "version": "2024, v24.2.1 (Mac Arm 64)"},
     {"hex": "005F00030F8104", "version": "2024, v24.2.0 BETA (Mac Arm 64)"},
 
+    {"hex": "005F00060F4326", "version": "2024, v24.6.4 (Mac)"},
     {"hex": "005F00060F431E", "version": "2024, v24.6.3 (Mac)"},
     {"hex": "005F00060F4316", "version": "2024, v24.6.2 (Mac)"},
     {"hex": "005F00060F430E", "version": "2024, v24.6.1 (Mac)"},
@@ -31,6 +42,7 @@
     {"hex": "005F00040F410E", "version": "2024, v24.2.1 (Mac)"},
     {"hex": "005F00030F4104", "version": "2024, v24.2.0 BETA (Mac)"},
 
+    {"hex": "005F00060F0326", "version": "2024, v24.6.4 (Win)"},
     {"hex": "005F00060F031E", "version": "2024, v24.6.3 (Win)"},
     {"hex": "005F00060F0316", "version": "2024, v24.6.2 (Win)"},
     {"hex": "005F00060F030E", "version": "2024, v24.6.1 (Win)"},
